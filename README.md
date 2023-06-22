@@ -1,5 +1,5 @@
 # Financiyo: a block explorer for the Financiyo network
-This is the frontend of [Financiyoscan](https://scan.financiyo.net), which displays the block information of the Financiyo network and network statistics obtained from [Financiyoscan API](https://github.com/CoinHippo-Labs/Financiyoscan-api). The project is implemented based on [Next.js](https://github.com/vercel/next.js).
+This is the frontend of [Financiyoscan](https://scan.financiyo.net), which displays the block information of the Financiyo network and network statistics obtained from [Financiyoscan API](https://github.com/Financiyo-api). The project is implemented based on [Next.js](https://github.com/vercel/next.js).
 
 <img width="1440" alt="home" src="https://financiyo.net/explorer.png">
 
